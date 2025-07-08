@@ -45,6 +45,7 @@ Change to the repository directory on your computer (if you are not already ther
 
 ```bash
 cd IEEE_Web_Team_Tasks
+cd Task2
 ```
 
 Now create a branch using the `git checkout` command:
